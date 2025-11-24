@@ -1,4 +1,4 @@
-# Autoencoder__Deep_CNN
+# Autoencoder - Deep_CNN
 
 ## 🖼️ Deep CNN Autoencoder – Image Compression & Denoising
 
@@ -40,9 +40,11 @@ Input Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct In
 ## 🧠 Neural Network Architecture
 - **Convolutional Neural Network (CNN) Autoencoder**  
 - Encoder: Convolution + Pooling layers to compress features  
-- Decoder: Convolution + Upsampling layers to reconstruct images  
-- Loss Function: Mean Squared Error (MSE) or Binary Crossentropy  
-- Optimizer: Adam  
+- Decoder: Convolution + Upsampling layers to reconstruct images
+- Activation: Relu and Sigmoid 
+- Loss Function: Binary Crossentropy  
+- Optimizer: Adam
+  
 
 ---
 
