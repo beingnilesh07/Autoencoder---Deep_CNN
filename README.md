@@ -1,6 +1,6 @@
 # Autoencoder---Deep_CNN
 
-# 🖼️ Deep CNN Autoencoder – Image Compression & Denoising
+## 🖼️ Deep CNN Autoencoder – Image Compression & Denoising
 
 This project demonstrates the use of **Convolutional Neural Network (CNN) Autoencoders** for two key tasks:  
 - **Image Compression** – reducing image size while preserving important features.  
@@ -26,7 +26,7 @@ Input Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct In
 ---
 
 ## ⚙️ Environment
-Jupyter Notebook
+- Jupyter Notebook
 ---
 
 ## 📚 Libraries Used
@@ -46,8 +46,3 @@ Jupyter Notebook
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/deep-cnn-autoencoder.git
-   cd deep-cnn-autoencoder
