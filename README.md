@@ -1,4 +1,4 @@
-# Autoencoder---Deep_CNN
+# Autoencoder__Deep_CNN
 
 ## 🖼️ Deep CNN Autoencoder – Image Compression & Denoising
 
